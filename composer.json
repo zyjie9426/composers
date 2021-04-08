@@ -1,6 +1,11 @@
 {
     "name": "prop/composers",
     "description": "this is test code",
+    "autoload": {
+        "psr-4": {
+            "zhaoyingjie\\": "app/"
+        }
+    },
     "type": "library",
     "authors": [
         {
