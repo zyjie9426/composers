@@ -1,0 +1,13 @@
+{
+    "name": "prop/composers",
+    "description": "this is test code",
+    "type": "library",
+    "authors": [
+        {
+            "name": "zhaoyingjie",
+            "email": "zhaoyingjie@xiaodongai.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
