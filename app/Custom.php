@@ -6,7 +6,7 @@ class Custom
 	public function api(){
 		echo 'composer';
 	}
-	public funciton test(){
+	public function test(){
 		echo phpinfo();
 	}
 }
